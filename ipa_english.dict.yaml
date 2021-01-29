@@ -10,14 +10,15 @@
 
 ---
 name: ipa_english
-version: "0.1"
+version: "0.2"
 sort: original
 ...
 
 #Lower case symbols
 ː	:
-'	'
-ˌ	;
+'	sb
+ˌ	xb
+/	/
 #EPD-14(dj88 or Gimso)
 #短元音
 ɪ	i
