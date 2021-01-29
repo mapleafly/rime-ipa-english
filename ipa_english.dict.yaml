@@ -10,8 +10,9 @@
 
 ---
 name: ipa_english
-version: "0.2"
-sort: original
+version: "0.3"
+# sort: original
+sort: by_weight
 ...
 
 #Lower case symbols
@@ -22,26 +23,77 @@ sort: original
 #EPD-14(dj88 or Gimso)
 #短元音
 ɪ	i
+ɪ	ey
+ɪ	y
 ə	a
+ə	er
+ə	or
+ə	ar
 ɒ	o
-ʊ	uu
+ɒ	a
+ʊ	u
+ʊ	oo
+ʊ	ou
 ʌ	ou
+ʌ	o
+ʌ	u
 e	e
-æ	an
+e	a
+e	ea
+æ	a
 #长元音
-iː	ii
+iː	e
+iː	ea
+iː	ee
+iː	ei
+iː	ie
 ɜː	er
+ɜː	ir
+ɜː	or
+ɜː	ur
+ɜː	ear
+ɔː	al
+ɔː	aw
+ɔː	au
 ɔː	or
+ɔː	oar
+ɔː	our
+ɔː	oor
+ɔː	augh
+uː	o
+uː	oo
+uː	ou
 uː	u
 ɑː	ar
+ɑː	a
+ɑː	al
 #双元音
 eɪ	ei
+eɪ	a
+eɪ	ai
+eɪ	ea
+eɪ	ey
+eɪ	ay
 aɪ	y
+aɪ	i
+aɪ	igh
+aɪ	ie
+əʊ	o
 əʊ	oa
+əʊ	ou
+əʊ	ow
+aʊ	ou
 aʊ	ow
 ɔɪ	oi
+ɔɪ	oy
 eə	ear
+eə	air
+eə	are
+eə	ere
 ɪə	ea
+ɪə	ear
+ɪə	eer
+ʊə	ure
 ʊə	our
 #EPD-12（IPA63）
 i	i
@@ -72,36 +124,67 @@ o	oa
 #辅音
 #Plosives
 p	p
+p	pp
 b	b
+b	bb
 t	t
+t	tt
 d	d
+d	dd
 k	k
+k	c
+k	ck
+k	ch
+k	q
 g	g
+g	gue
+g	gg
 #Fricatives
 ∫	sh
+∫	ch
+∫	ss
+∫	ti
 ʒ	si
+ʒ	ge
 s	s
+s	c
+s	ss
+s	sc
 z	z
+z	s
 θ	th
-ð	thh
+ð	th
 f	f
+f	ff
+f	gh
+f	ph
 v	v
 h	h
 r	r
+r	rr
 #Affricates
 ʧ	ch
+ʧ	tch
 ʤ	j
+ʤ	ge
+ʤ	dge
 tr	tr
 dr	dr
 ʦ	ts
-ʣ	dz
+ʦ	tes
+ʣ	ds
 #Nasals
 m	m
+m	mm
 n	n
+n	nn
+ŋ	n
 ŋ	ng
 #Semivowels
 w	w
-j	j
+w	wh
+j	y
 #Lateral
 l	l
+l	ll
 

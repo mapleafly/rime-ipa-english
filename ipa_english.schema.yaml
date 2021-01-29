@@ -4,7 +4,7 @@
 schema:
   schema_id: ipa_english
   name: 英语音标
-  version: '0.2'
+  version: '0.3'
   author:
     - lifxue <lifxue@gmail.com>
     - tonyxue <tonyxue01@126.com>
@@ -32,7 +32,7 @@ speller:
 translator:
   dictionary: ipa_english
   enable_sentence: false
-  enable_user_dict: false
+  enable_user_dict: true
   comment_format:
     - xform/^~//
 
