@@ -1,0 +1,106 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# IPA for English
+#
+# Table author:
+#  - lifxue <lifxue@gmail.com>
+#  - tonyxue <tonyxue01@126.com>
+#
+
+---
+name: ipa_english
+version: "0.1"
+sort: original
+...
+
+#Lower case symbols
+ː	:
+'	'
+ˌ	;
+#EPD-14(dj88 or Gimso)
+#短元音
+ɪ	i
+ə	a
+ɒ	o
+ʊ	uu
+ʌ	ou
+e	e
+æ	an
+#长元音
+iː	ii
+ɜː	er
+ɔː	or
+uː	u
+ɑː	ar
+#双元音
+eɪ	ei
+aɪ	y
+əʊ	oa
+aʊ	ow
+ɔɪ	oi
+eə	ear
+ɪə	ea
+ʊə	our
+#EPD-12（IPA63）
+i	i
+ɔ	o
+u	uu
+əː	er
+ei	ei
+ai	y
+ɔi	oi
+au	ow
+əu	oa
+iə	ea
+ɛə	ear
+uə	our
+#kk
+ɑ	o
+ɛ	e
+i	ii
+ɜ	er
+ɔ	or
+u	u
+ɑ	ar
+e	ei
+o	oa
+ɪr	ea
+ɛr	ear
+ʊr	our
+#辅音
+#Plosives
+p	p
+b	b
+t	t
+d	d
+k	k
+g	g
+#Fricatives
+∫	sh
+ʒ	si
+s	s
+z	z
+θ	th
+ð	thh
+f	f
+v	v
+h	h
+r	r
+#Affricates
+ʧ	ch
+ʤ	j
+tr	tr
+dr	dr
+ʦ	ts
+ʣ	dz
+#Nasals
+m	m
+n	n
+ŋ	ng
+#Semivowels
+w	w
+j	j
+#Lateral
+l	l
+
